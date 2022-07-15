@@ -24,6 +24,9 @@
 # - more easy to use with default params
 # - changes to use with other embedded systems
 
+# 2022 changes by maxpolzin @github:
+# - adjust default parameters for ROSbloX
+
 # command line parameters
 
 command="up" # "up" or "down"
