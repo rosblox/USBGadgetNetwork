@@ -28,13 +28,13 @@
 
 command="up" # "up" or "down"
 
-vid="0xffff" # set your vendor id 
-pid="0xffff" # set your product id 
+vid="0x16c0" # set your vendor id 
+pid="0x27e1" # set your product id 
 devversion="0x0001" # this should be incremented any time there are breaking changes
                 # to this script so that the host OS sees it as a new device and
                 # re-enumerates everything rather than relying on cached values
-mfg="my name" # adjust
-prod="product name" # adjust
+mfg="ROSbloX" # adjust
+prod="XploROS" # adjust
 serial="t00000002" # adjust
 smac=""
 udc_device=""
